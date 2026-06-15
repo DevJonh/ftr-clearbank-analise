@@ -52,6 +52,8 @@ Arquivo:
 analise_pandas.py
 ```
 
+O arquivo `analise_pandas.py` utiliza a base de dados `transacoes.csv` para realizar a análise utilizando a biblioteca pandas.
+
 Implementação alternativa utilizando:
 
 - pandas.read_csv()
