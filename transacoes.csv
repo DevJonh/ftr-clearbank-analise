@@ -1,0 +1,26 @@
+id,data,cliente_id,tipo,valor,descricao,categoria
+1,2026-01-05,CLI001,credito,3500.0,Salario Janeiro,salario
+2,2026-01-08,CLI002,debito,250.75,Supermercado,compra
+21,2026-01-20,CLI001,debito,abc,Valor Invalido,compra
+3,2026-01-12,CLI003,debito,120.0,Internet,conta
+4,2026-01-18,CLI001,credito,500.0,Freelance,servico
+5,2026-01-25,CLI004,debito,89.9,Streaming,assinatura
+6,2026-02-03,CLI002,credito,4200.0,Salario Fevereiro,salario
+22,2026-02-11,,debito,300.0,Cliente Vazio,transferencia
+7,2026-02-07,CLI005,debito,560.0,Aluguel,moradia
+8,2026-02-14,CLI003,credito,15000.0,Transferencia Recebida,transferencia
+9,2026-02-20,CLI001,debito,320.4,Conta de Luz,conta
+10,2026-02-28,CLI004,debito,145.0,Farmacia,saude
+XYZ,2026-03-08,CLI005,credito,1000.0,ID Invalido,servico
+11,2026-03-01,CLI001,credito,3500.0,Salario Marco,salario
+12,2026-03-09,CLI002,debito,210.5,Combustivel,transporte
+13,2026-03-15,CLI006,credito,12500.0,Bonus Anual,bonus
+14,2026-03-22,CLI005,debito,980.0,Moveis,casa
+24,15/04/2026,CLI007,credito,2500.0,Data Invalida,salario
+15,2026-03-30,CLI003,debito,75.9,Lanche,alimentacao
+16,2026-04-05,CLI007,credito,18000.0,Investimento Resgatado,investimento
+17,2026-04-10,CLI001,debito,450.0,Curso Online,educacao
+25,2026-04-25,CLI003,pix,500.0,Tipo Invalido,transferencia
+18,2026-04-18,CLI004,credito,2800.0,Venda Equipamento,venda
+19,2026-04-22,CLI006,debito,670.3,Seguro,seguro
+20,2026-04-28,CLI002,debito,199.9,Academia,saude
